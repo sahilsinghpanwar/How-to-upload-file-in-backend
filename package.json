@@ -1,0 +1,15 @@
+{
+  "name": "10-how-to-uplode-file-in-backend",
+  "version": "1.0.0",
+  "description": "How to upload file in backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "upload",
+    "file"
+  ],
+  "author": "sahil",
+  "license": "ISC"
+}
